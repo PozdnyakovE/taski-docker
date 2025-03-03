@@ -1,2 +1,2 @@
-# taski-docker
-1
+## TASKI-DOCKER
+Контейнеризация, CI/CD
